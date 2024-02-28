@@ -4,7 +4,7 @@
 
 ## Education						       			        		
 - Bachelor of ARTS | University of Delhi (_May 2015_)
-- Billingual proficiency in English & Hindi
+- Billingual proficiency | English & Hindi
 
 ## Work Experience
 **Senior Technical Support Engineer @ Adobe (_September 2021 - Present_)**

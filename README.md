@@ -55,6 +55,7 @@
 - Assuring the reliability of all the IT peripherals to ensure uninterrupted day-to-day operations. 
 
 ## Professional Achievements
+- ADOBE- GAVA Award Manager Nomination, Fourth Quarter FY23 
 - ADOBE- GAVA Award Manager Nomination, Fourth Quarter FY22 
 - DIN ENGINEERING SERVICES – “BEST EMPLOYEE AWARD” FY20 
 - DIN ENGINEERING SERVICES – “ADOBE CSAT CHAMP” FY20 

@@ -54,13 +54,13 @@
 - Conducted analysis and created Weekly reports to share with Superiors, highlighting insights to improve business processes and decisions. 
 - Assuring the reliability of all the IT peripherals to ensure uninterrupted day-to-day operations. 
 
-## PROFESSIONAL ACHIEVEMENTS
+## Professional Achievements
 - ADOBE- GAVA Award Manager Nomination, Fourth Quarter FY22 
 - DIN ENGINEERING SERVICES – “BEST EMPLOYEE AWARD” FY20 
 - DIN ENGINEERING SERVICES – “ADOBE CSAT CHAMP” FY20 
 - TECH MAHINDRA – “Pat On The Back” Certificate FY19 
 
-## CERTIFICATION
+## Certifications
 - Project Management, Harvard ManageMentor Certification of Completion (Year: 2023)  
 - Career Essentials in Generative AI, Microsoft & LinkedIn Certification of Completion (Year: 2023)  
 - Microsoft Power Automate Essential Training, LinkedIn Certification of Completion (Year: 2023)  

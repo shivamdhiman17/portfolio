@@ -3,7 +3,7 @@
 #### Technical Skills: Microsoft Azure, Google Directory, Power BI, EXCEL, PYTHON, Adobe Creative Cloud, VBA, Power Automate, Power Apps 
 
 ## Education						       			        		
-- Bachelor of ARTS | University of Delhi (_May 2012 - May 2015 _)
+- Bachelor of ARTS | University of Delhi (May 2012 - May 2015)
 - XII | Vidya Bharati School, CBSE, 2012
 - X   | Vidya Bharati School, CBSE, 2010
 

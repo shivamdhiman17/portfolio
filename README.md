@@ -5,7 +5,7 @@
 ## Education						       			        		
 - Bachelor of ARTS | University of Delhi (_May 2012 - May 2015 _)
 - XII | Vidya Bharati School, CBSE, 2012
-- X | Vidya Bharati School, CBSE, 2010
+- X   | Vidya Bharati School, CBSE, 2010
 
 ## Work Experience
 **Senior Technical Support Engineer @ Adobe (_September 2021 - Present_)**
@@ -17,43 +17,33 @@
    Quality, Enterprise Sign, and Acrobat Teams to ensure seamless operations and enhancements.
 
 **Senior Technical Support Consultant  @ DIN ENGINEERING SERVICES- ADOBE Vendor Payroll (_October 2019 - September 2021_)**
-- Process: Adobe Creative Cloud for Enterprise  
-- Providing excellent technical consultation over the phone, email, and chat. 
-- Resolving technical issues related to Adobe Creative Cloud at the enterprise customer’s end. 
-- Resolving application-specific, network-specific, and directory-specific issues related to the creative cloud. 
-- Resolving inter-compatibility issues between the network, directory, and creative cloud services at the customer’s end 
-- Integrating SSO compatibility and configuration with Adobe Creative Cloud Services. 
-- Guiding and mentoring the new hires with the customer issue troubleshooting steps for the resolution. 
-- Analyze, define, document, and implement new, improved network and communication systems, improving network availability, performance, Usability, security, 
-- and reliability at the customer’s end to ensure uninterrupted Adobe CC integration. 
-- Assist in testing new and enhanced features and report the logged bugs to the development team. 
-- Troubleshoot and validate customer-reported bug reports and assist in the resolution. 
-- Assist in product-specific special projects and other duties like testing, bug logging, etc. as assigned. 
-- Review and distribute pertinent cross-function information. 
+
+- **Technical Support:** Offers expert consultation via phone, email, and chat to resolve diverse technical issues related to Adobe Creative Cloud for enterprise customers.
+- **Issue Resolution:** Addresses application-specific, network-specific, and directory-specific problems, ensuring smooth operation of Adobe CC services at the customer's end.
+- **Inter-Compatibility Management:** Resolves compatibility issues between network, directory, and Adobe CC services, facilitating seamless integration for customers.
+- **SSO Integration and Mentoring:** Implements Single Sign-On (SSO) compatibility and guides new hires in troubleshooting procedures, optimizing user experience and security.
+- **Bug Reporting and Improvement:** Assists in testing new features, bug reporting, and contributes to network and communication system enhancements, ensuring uninterrupted Adobe CC integration and reliability.
 
 **Senior Technical Support Associate  @ Tech Mahindra (_September 2018 - October 2019_)**
-- Respond to customer's problems related to hardware, network or software via email, chat, social media, or phone. 
-- Configuring internal network policies on the network devices at the customer’s end as per their requirements. 
-- Configuring the user’s device to provide user access to the network. 
-- Configuring and setting up new network devices like routers, switches, and Modem and assisting in defining access policies. 
-- Maintaining and configuring high availability network access policies on the customer device. 
-- Checking the log files for the errors on the device and providing the resolution as per the error. 
-- Making sure network policies allow uninterrupted access to the network services required. 
-- Recognized as a ‘Rising Star’ by the customer success division for consistently troubleshooting and resolving issues in a timely manner. 
+- **Customer Support:** Responds to customer inquiries and issues related to hardware, network, or software via various channels such as email, chat, social media, or phone.
+- **Network Configuration:** Configures internal network policies on customer network devices according to their specifications, ensuring optimal performance and security.
+- **User Device Setup:** Configures user devices to enable network access, ensuring seamless connectivity for users within the network environment.
+- **New Device Setup:** Sets up and configures new network devices like routers, switches, and modems, assisting in defining access policies to maintain network integrity.
+- **Maintenance and Troubleshooting:** Maintains and configures high availability network access policies, monitors log files for errors, and provides timely resolutions to ensure uninterrupted network services. Additionally, recognized for exceptional troubleshooting skills by the customer success division.
 
 **Business Analyst  @ Skite 360 Degree (_July 2015 - June 2018_)**
-- Interacted with Clients to showcase Advertising Display inventories to meet Business targets. 
-- Collaborated with the Sales & Operations Team to collect data and outline in Excel format. 
-- Maintained data for Outdoor display inventories in different locations of the Business Site. 
-- Conducted analysis and created Weekly reports to share with Superiors, highlighting insights to improve business processes and decisions. 
-- Assuring the reliability of all the IT peripherals to ensure uninterrupted day-to-day operations. 
+- **Client Interaction:** Engaged with clients to present advertising display inventories, aligning with business targets and objectives.
+- **Data Collaboration:** Worked closely with the Sales & Operations Team to gather and organize data, utilizing Excel for streamlined representation.
+- **Inventory Management:** Oversaw the maintenance of outdoor display inventories across various locations within the business site, ensuring accurate and up-to-date records.
+- **Analysis and Reporting:** Conducted regular analysis and generated weekly reports for superiors, providing valuable insights to enhance business processes and decision-making.
+- **IT Peripherals Reliability:** Ensured the reliability of all IT peripherals to uphold uninterrupted day-to-day operations, contributing to the overall efficiency of business activities
 
 ## Professional Achievements
-- ADOBE- People Manager Nomination, Third Quarter FY23 
-- ADOBE- GAVA Award Manager Nomination, Fourth Quarter FY22 
-- DIN ENGINEERING SERVICES – “BEST EMPLOYEE AWARD” FY20 
-- DIN ENGINEERING SERVICES – “ADOBE CSAT CHAMP” FY20 
-- TECH MAHINDRA – “Pat On The Back” Certificate FY19 
+- **Global Adobe Values Award:** Recognized for outstanding dedication and invaluable contributions in Third Quarter FY23 at **Adobe**.
+- **Global Adobe Values Award:** Nominated for demonstrating unwavering commitment and dedication toward Adobe Core values in delivering best service, Fourth Quarter FY22 at **Adobe**.
+- **"Best Employee Award":** Awarded for exemplary performance and commitment in FY20 at **DIN Engineering Services**.
+- **"Adobe CSAT Champ":** Recognized as the top performer in meeting Customer Satisfaction in FY20 at **DIN Engineering Services**.
+- **"Pat On The Back" Certificate:** Consecutively awarded twice for meeting top scores in customer satisfaction in FY19 at **Tech Mahindra**.
 
 ## Certifications
 - Project Management, Harvard ManageMentor Certification of Completion (Year: 2023)  

@@ -4,8 +4,8 @@
 
 ## Education						       			        		
 - Bachelor of ARTS | University of Delhi (_May 2012 - May 2015 _)
-- XII, Vidya Bharati School, CBSE, 2012
-- X, Vidya Bharati School, CBSE, 2010
+- XII | Vidya Bharati School, CBSE, 2012
+- X | Vidya Bharati School, CBSE, 2010
 
 ## Work Experience
 **Senior Technical Support Engineer @ Adobe (_September 2021 - Present_)**

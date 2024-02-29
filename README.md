@@ -11,7 +11,7 @@
 **Senior Technical Support Engineer @ Adobe (_September 2021 - Present_)**
 - **Supporting Adobe Creative Cloud:** Engaged in Enterprise Service Desk tasks, specifically focusing on supporting Adobe Creative Cloud software for users.
 - **Handling Critical Escalations:** Responsible for addressing critical escalations (P1) within the Service Desk Enterprise tickets, ensuring prompt resolution.
-- **Providing Training and Updates:** Conducts refresher and enablement sessions to keep users informed about product updates and new features, enhancing their proficiency.
+- **Providing Training and Updates:** Conducts refresher and enablement sessions to keep team members informed about product updates and new features, enhancing their proficiency.
 - **Analyzing Ticket Data:** Utilizes Enterprise Support Ticket Data to identify trends and opportunities for improving service delivery, enhancing customer satisfaction.
 - **Process Improvement and Collaboration:** Actively involved in various process improvement projects, including Enterprise Bot Conversation AI and Manager Task Automation. Collaborates across departments like Sales, 
    Quality, Enterprise Sign, and Acrobat Teams to ensure seamless operations and enhancements.

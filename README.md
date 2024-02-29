@@ -9,19 +9,12 @@
 
 ## Work Experience
 **Senior Technical Support Engineer @ Adobe (_September 2021 - Present_)**
-- Part of Enterprise Service Desk supporting Adobe Creative Cloud. 
-- Handles P1 Critical Escalations for Service Desk Enterprise Tickets. 
-- Delivers Refresher & Enablement Sessions on Product Updates & Feature Releases. 
-- Analyzing Enterprise Support Ticket Data for trends and service delivery improvements. 
-- Visualizing and presenting data insights using Excel & Power BI. 
-- Analyze and optimize Enterprise bot functionality for improved user engagement. 
-- Develop training charters and resource recommendations for effective onboarding. 
-- Streamline customer identification and reduce unnecessary transfers through tool utilization. 
-- Facilitate New Hires access to tools and lead training sessions for seamless integration. 
-- Collaborate on certification exercises and mock scenarios for new hires. 
-- Part of Process Improvement Projects – Enterprise Bot Conversation AI, Manager Task Automation, Content Development. 
-- Involved in Cross-Functional Collaboration discussions with Sales, Quality, Enterprise Sign, and Acrobat Teams. 
-- Participated in PET & JIRA Enhancement request for Service Desk Enterprise. 
+- *Supporting Adobe Creative Cloud:* Engaged in Enterprise Service Desk tasks, specifically focusing on supporting Adobe Creative Cloud software for users.
+- *Handling Critical Escalations:* Responsible for addressing critical escalations (P1) within the Service Desk Enterprise tickets, ensuring prompt resolution.
+- *Providing Training and Updates:* Conducts refresher and enablement sessions to keep users informed about product updates and new features, enhancing their proficiency.
+- *Analyzing Ticket Data:* Utilizes Enterprise Support Ticket Data to identify trends and opportunities for improving service delivery, enhancing customer satisfaction.
+- *Process Improvement and Collaboration:* Actively involved in various process improvement projects, including Enterprise Bot Conversation AI and Manager Task Automation. Collaborates across departments like Sales, 
+   Quality, Enterprise Sign, and Acrobat Teams to ensure seamless operations and enhancements.
 
 **Senior Technical Support Consultant  @ DIN ENGINEERING SERVICES- ADOBE Vendor Payroll (_October 2019 - September 2021_)**
 - Process: Adobe Creative Cloud for Enterprise  

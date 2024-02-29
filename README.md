@@ -47,13 +47,13 @@
 
 ## Certifications
 - [**Project Management**, Harvard ManageMentor Certification of Completion (Year: 2023)](assets/Images/project_management (1).pdf)
-- **Career Essentials in Generative AI**, Microsoft & LinkedIn Certification of Completion (Year: 2023)  
-- **Microsoft Power Automate Essential Training**, LinkedIn Certification of Completion (Year: 2023)  
-- **Python Training**, Intellipaat Certification of Completion (Year: 2022) 
-- **Data Structure Training**, Intellipaat Certification of Completion (Year: 2022)
-- **Statistics for Data Science**, Intellipaat Certification of Completion (Year: 2022) 
-- **Business Analysis Foundation**, LinkedIn Certification of Completion (Year: 2021)    
-- **Online Marketing Foundations**, LinkedIn Certification of Completion (Year: 2020) 
-- **Content Marketing: Blogs**, LinkedIn Certification of Completion (Year: 2020) 
+- [**Career Essentials in Generative AI**, Microsoft & LinkedIn Certification of Completion (Year: 2023)](assets/Images/CertificateOfCompletion_Career Essentials in Generative AI by Microsoft and LinkedIn (1).pdf) 
+- [**Microsoft Power Automate Essential Training**, LinkedIn Certification of Completion (Year: 2023)](assets/Images/CertificateOfCompletion_Microsoft Power Automate Essential Training (2).pdf)  
+- [**Python Training**, Intellipaat Certification of Completion (Year: 2022)](assets/Images/Python Training (1) (1).pdf) 
+- [**Data Structure Training**, Intellipaat Certification of Completion (Year: 2022)](assets/Images/Data Structure.pdf)
+- [**Statistics for Data Science**, Intellipaat Certification of Completion (Year: 2022)](assets/Images/Statistics for Data Science (1) (1).pdf)
+- [**Business Analysis Foundation**, LinkedIn Certification of Completion (Year: 2021)](assets/Images/CertificateOfCompletion_Business Analysis Foundations.pdf)    
+- [**Online Marketing Foundations**, LinkedIn Certification of Completion (Year: 2020)](assets/Images/CertificateOfCompletion_Online Marketing Foundations.pdf)
+- [**Content Marketing: Blogs**, LinkedIn Certification of Completion (Year: 2020)](assets/Images/CertificateOfCompletion_Content Marketing_ Blogs.pdf) 
 
 

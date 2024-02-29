@@ -39,11 +39,11 @@
 - **IT Peripherals Reliability:** Ensured the reliability of all IT peripherals to uphold uninterrupted day-to-day operations, contributing to the overall efficiency of business activities
 
 ## Professional Achievements
-- **Global Adobe Values Award:** Recognized for outstanding dedication and invaluable contributions in Third Quarter FY23 at **Adobe**.
-- **Global Adobe Values Award:** Nominated for demonstrating unwavering commitment and dedication toward Adobe Core values in delivering best service, Fourth Quarter FY22 at **Adobe**.
-- **"Best Employee Award":** Awarded for exemplary performance and commitment in FY20 at **DIN Engineering Services**.
-- **"Adobe CSAT Champ":** Recognized as the top performer in meeting Customer Satisfaction in FY20 at **DIN Engineering Services**.
-- **"Pat On The Back" Certificate:** Consecutively awarded twice for meeting top scores in customer satisfaction in FY19 at **Tech Mahindra**.
+- **Global Adobe Values Award:** Recognized for dedication and contributions in Third Quarter FY23 at Adobe.
+- **Global Adobe Values Award:** Nominated for commitment to Adobe Core values in Fourth Quarter FY22 at Adobe.
+- **Best Employee Award:** Recognized for exemplary performance in FY20 at DIN Engineering Services.
+- **Adobe CSAT Champ:** Top performer in Customer Satisfaction in FY20 at DIN Engineering Services.
+- **Pat On The Back Certificate:** Consecutively awarded twice for top customer satisfaction scores in FY19 at Tech Mahindra.
 
 ## Certifications
 - Project Management, Harvard ManageMentor Certification of Completion (Year: 2023)  

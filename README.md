@@ -46,7 +46,7 @@
 - **Pat On The Back Certificate:** Consecutively awarded twice for top customer satisfaction scores in FY19 at Tech Mahindra.
 
 ## Certifications
-- **Project Management**, Harvard ManageMentor Certification of Completion (Year: 2023)  
+- [**Project Management**, Harvard ManageMentor Certification of Completion (Year: 2023)](assets/Images/project_management (1).pdf)
 - **Career Essentials in Generative AI**, Microsoft & LinkedIn Certification of Completion (Year: 2023)  
 - **Microsoft Power Automate Essential Training**, LinkedIn Certification of Completion (Year: 2023)  
 - **Python Training**, Intellipaat Certification of Completion (Year: 2022) 

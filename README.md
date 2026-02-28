@@ -46,6 +46,7 @@
 - **Pat On The Back Certificate:** Consecutively awarded twice for top customer satisfaction scores in FY19 at Tech Mahindra.
 
 ## Certifications
+- [**PyTorch: Tensor, Dataset and Data Augmentation**, IBM Certification (Year: 2026)](assets/Images/IBM%20Certification%20PyTorch.pdf)
 - [**Project Management**, Harvard ManageMentor Certification of Completion (Year: 2023)](assets/Images/project_management (1).pdf)
 - [**Career Essentials in Generative AI**, Microsoft & LinkedIn Certification of Completion (Year: 2023)](assets/Images/CertificateOfCompletion_Career Essentials in Generative AI by Microsoft and LinkedIn (1).pdf) 
 - [**Microsoft Power Automate Essential Training**, LinkedIn Certification of Completion (Year: 2023)](assets/Images/CertificateOfCompletion_Microsoft Power Automate Essential Training (2).pdf)  
